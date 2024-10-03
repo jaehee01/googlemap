@@ -35,7 +35,7 @@ const locations = {
 
             // KML 오버레이 추가
             const kmlLayer = new google.maps.KmlLayer({
-                url: 'https://raw.githubusercontent.com/jaehee01/kakao/refs/heads/main/schoolzone.kml', // KML 파일의 URL
+                url: 'https://raw.githubusercontent.com/jaehee01/googlemap/refs/heads/master/schoolzone.kml', // KML 파일의 URL
                 map: map
             });
 
