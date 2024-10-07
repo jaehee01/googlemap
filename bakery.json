@@ -1,15 +1,15 @@
-{ "type": "Feature", "properties": { "가게이�": "수신당", "주소": "서울 서대문구 수색로2길 39 DMC금호리첸시아 1층 110 일부호" }, "geometry": { "type": "Point", "coordinates": [ 126.9162547, 37.5709675 ] } }
-{ "type": "Feature", "properties": { "가게이�": "파리바게뜨 가좌역점", "주소": "서울 서대문구 수색로 32 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.915136, 37.5694322 ] } }
-{ "type": "Feature", "properties": { "가게이�": "르미에르파티스리", "주소": "서울 서대문구 수색로2길 39 DMC금호리첸시아 상가동 135호 르미에르파티스리" }, "geometry": { "type": "Point", "coordinates": [ 126.9158675, 37.5709803 ] } }
-{ "type": "Feature", "properties": { "가게이�": "뚜레쥬르 가재울점", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9177319, 37.5745044 ] } }
-{ "type": "Feature", "properties": { "가게이�": "베리굳베이글 DMC점", "주소": "서울 서대문구 거북골로 84 상가 2동 1층 113호, 113-1호" }, "geometry": { "type": "Point", "coordinates": [ 126.9196375, 37.5765972 ] } }
-{ "type": "Feature", "properties": { "가게이�": "뚜레쥬르 남가좌점", "주소": "서울 서대문구 가재울로 42" }, "geometry": { "type": "Point", "coordinates": [ 126.9218406, 37.5751191 ] } }
-{ "type": "Feature", "properties": { "가게이�": "늦여름베이커리", "주소": "서울 서대문구 가재울로4길 40 1층 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.9239159, 37.5754486 ] } }
-{ "type": "Feature", "properties": { "가게이�": "한나식빵 명지대점", "주소": "서울 서대문구 증가로 150 DMC아이파크 상가 B309호" }, "geometry": { "type": "Point", "coordinates": [ 126.9219804, 37.5783927 ] } }
-{ "type": "Feature", "properties": { "가게이�": "파리바게뜨 명지대점", "주소": "서울 서대문구 증가로 130 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9233407, 37.5775258 ] } }
-{ "type": "Feature", "properties": { "가게이�": "뺑라팡", "주소": "서울 서대문구 수색로 100 DMC래미안 e편한세상 103동 3호" }, "geometry": { "type": "Point", "coordinates": [ 126.911898, 37.5730707 ] } }
-{ "type": "Feature", "properties": { "가게이�": "파랑베이커리", "주소": "서울 서대문구 남가좌동 124-1" }, "geometry": { "type": "Point", "coordinates": [ 126.9155737, 37.5733126 ] } }
-{ "type": "Feature", "properties": { "가게이�": "파리바게뜨 가재울뉴타운점", "주소": "서울 서대문구 거북골로 120 상가동 지하2층 3-2a, 3-2b" }, "geometry": { "type": "Point", "coordinates": [ 126.9159348, 37.5753542 ] } }
-{ "type": "Feature", "properties": { "가게이�": "글룩베이커리", "주소": "서울 서대문구 명지대7길 19 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9220971, 37.5838216 ] } }
-{ "type": "Feature", "properties": { "가게이�": "디저트콩콩", "주소": "서울 서대문구 거북골로14길 5 상가동 제지하층 제01호, 제02호" }, "geometry": { "type": "Point", "coordinates": [ 126.9134185, 37.5756695 ] } }
-{ "type": "Feature", "properties": { "가게이�": "파리바게뜨 가재울래미안점", "주소": "서울 서대문구 응암로 54 1층(북가좌동, 서부프라자빌딩)" }, "geometry": { "type": "Point", "coordinates": [ 126.9101069, 37.5777376 ] } }
+{ "type": "Feature", "properties": { "가게이름": "수신당", "주소": "서울 서대문구 수색로2길 39 DMC금호리첸시아 1층 110 일부호" }, "geometry": { "type": "Point", "coordinates": [ 126.9162547, 37.5709675 ] } }
+{ "type": "Feature", "properties": { "가게이름": "파리바게뜨 가좌역점", "주소": "서울 서대문구 수색로 32 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.915136, 37.5694322 ] } }
+{ "type": "Feature", "properties": { "가게이름": "르미에르파티스리", "주소": "서울 서대문구 수색로2길 39 DMC금호리첸시아 상가동 135호 르미에르파티스리" }, "geometry": { "type": "Point", "coordinates": [ 126.9158675, 37.5709803 ] } }
+{ "type": "Feature", "properties": { "가게이름": "뚜레쥬르 가재울점", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9177319, 37.5745044 ] } }
+{ "type": "Feature", "properties": { "가게이름": "베리굳베이글 DMC점", "주소": "서울 서대문구 거북골로 84 상가 2동 1층 113호, 113-1호" }, "geometry": { "type": "Point", "coordinates": [ 126.9196375, 37.5765972 ] } }
+{ "type": "Feature", "properties": { "가게이름": "뚜레쥬르 남가좌점", "주소": "서울 서대문구 가재울로 42" }, "geometry": { "type": "Point", "coordinates": [ 126.9218406, 37.5751191 ] } }
+{ "type": "Feature", "properties": { "가게이름": "늦여름베이커리", "주소": "서울 서대문구 가재울로4길 40 1층 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.9239159, 37.5754486 ] } }
+{ "type": "Feature", "properties": { "가게이름": "한나식빵 명지대점", "주소": "서울 서대문구 증가로 150 DMC아이파크 상가 B309호" }, "geometry": { "type": "Point", "coordinates": [ 126.9219804, 37.5783927 ] } }
+{ "type": "Feature", "properties": { "가게이름": "파리바게뜨 명지대점", "주소": "서울 서대문구 증가로 130 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9233407, 37.5775258 ] } }
+{ "type": "Feature", "properties": { "가게이름": "뺑라팡", "주소": "서울 서대문구 수색로 100 DMC래미안 e편한세상 103동 3호" }, "geometry": { "type": "Point", "coordinates": [ 126.911898, 37.5730707 ] } }
+{ "type": "Feature", "properties": { "가게이름": "파랑베이커리", "주소": "서울 서대문구 남가좌동 124-1" }, "geometry": { "type": "Point", "coordinates": [ 126.9155737, 37.5733126 ] } }
+{ "type": "Feature", "properties": { "가게이름": "파리바게뜨 가재울뉴타운점", "주소": "서울 서대문구 거북골로 120 상가동 지하2층 3-2a, 3-2b" }, "geometry": { "type": "Point", "coordinates": [ 126.9159348, 37.5753542 ] } }
+{ "type": "Feature", "properties": { "가게이름": "글룩베이커리", "주소": "서울 서대문구 명지대7길 19 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9220971, 37.5838216 ] } }
+{ "type": "Feature", "properties": { "가게이름": "디저트콩콩", "주소": "서울 서대문구 거북골로14길 5 상가동 제지하층 제01호, 제02호" }, "geometry": { "type": "Point", "coordinates": [ 126.9134185, 37.5756695 ] } }
+{ "type": "Feature", "properties": { "가게이름": "파리바게뜨 가재울래미안점", "주소": "서울 서대문구 응암로 54 1층(북가좌동, 서부프라자빌딩)" }, "geometry": { "type": "Point", "coordinates": [ 126.9101069, 37.5777376 ] } }
