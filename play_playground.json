@@ -1,4 +1,4 @@
-{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "한울뉴타운아파트 401동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9097802, 37.5772176 ] } }
+[{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "한울뉴타운아파트 401동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9097802, 37.5772176 ] } }
 { "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC아이파크아파트 102동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9150238, 37.5767328 ] } }
 { "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 101동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9164432, 37.5788277 ] } }
 { "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 202동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9161791, 37.5784779 ] } }
@@ -31,4 +31,4 @@
 { "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC한양아파트 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9104663, 37.5758761 ] } }
 { "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 증가로 243 3층" }, "geometry": { "type": "Point", "coordinates": [ 126.9125821, 37.5827224 ] } }
 { "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 수색로8길 48-4 나동 사회교육관 3층" }, "geometry": { "type": "Point", "coordinates": [ 126.9075618, 37.5762775 ] } }
-{ "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 거북골로18가길 23 북가좌동 휴먼빌 아파트" }, "geometry": { "type": "Point", "coordinates": [ 126.9117024, 37.5771608 ] } }
+{ "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 거북골로18가길 23 북가좌동 휴먼빌 아파트" }, "geometry": { "type": "Point", "coordinates": [ 126.9117024, 37.5771608 ] } }]
