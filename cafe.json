@@ -1,0 +1,68 @@
+{ "type": "Feature", "properties": { "가게이�": "컴포즈커피 남가좌DMC자이점", "주소": "서울 서대문구 가재울미래로 17 102호" }, "geometry": { "type": "Point", "coordinates": [ 126.9169031, 37.5707581 ] } }
+{ "type": "Feature", "properties": { "가게이�": "빽다방 가좌역점", "주소": "서울 서대문구 수색로2길 39 DMC금호리첸시아 1층 106호" }, "geometry": { "type": "Point", "coordinates": [ 126.9160356, 37.5704252 ] } }
+{ "type": "Feature", "properties": { "가게이�": "디저트39 가재울뉴타운점", "주소": "서울 서대문구 수색로2길 39" }, "geometry": { "type": "Point", "coordinates": [ 126.9161615, 37.5707969 ] } }
+{ "type": "Feature", "properties": { "가게이�": "투썸플레이스 가재울엘가점", "주소": "서울 서대문구 모래내로 151" }, "geometry": { "type": "Point", "coordinates": [ 126.9178489, 37.5697795 ] } }
+{ "type": "Feature", "properties": { "가게이�": "메가커피 가좌역점", "주소": "서울 서대문구 수색로 34 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9148612, 37.5695632 ] } }
+{ "type": "Feature", "properties": { "가게이�": "세겐커피", "주소": "서울 서대문구 수색로2길 39 DMC금호리첸시아 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.915675, 37.5712075 ] } }
+{ "type": "Feature", "properties": { "가게이�": "도나파스텔", "주소": "서울 서대문구 수색로2길 39 1층(금호리첸시아 Gate3 CU편의점 옆)" }, "geometry": { "type": "Point", "coordinates": [ 126.9156693, 37.5713518 ] } }
+{ "type": "Feature", "properties": { "가게이�": "이디야 가재울중앙점", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9179625, 37.5745213 ] } }
+{ "type": "Feature", "properties": { "가게이�": "댄싱컵 가재울점", "주소": "서울 서대문구 거북골로 100 래미안루센티아 상가 25호" }, "geometry": { "type": "Point", "coordinates": [ 126.9181013, 37.5753669 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페다온", "주소": "서울 서대문구 모래내로15길 66 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9189061, 37.5744274 ] } }
+{ "type": "Feature", "properties": { "가게이�": "커피스튜디오", "주소": "서울 서대문구 모래내로15길 40 1층 커피스튜디오" }, "geometry": { "type": "Point", "coordinates": [ 126.9201231, 37.5734826 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페당나귀", "주소": "서울 서대문구 가재울로 16 1층, 카페당나귀" }, "geometry": { "type": "Point", "coordinates": [ 126.9225126, 37.5740238 ] } }
+{ "type": "Feature", "properties": { "가게이�": "아티젠", "주소": "서울 서대문구 가재울로 6" }, "geometry": { "type": "Point", "coordinates": [ 126.9227716, 37.573629 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페리트머스", "주소": "서울 서대문구 가재울로 32 1층 카페 리트머스" }, "geometry": { "type": "Point", "coordinates": [ 126.9221346, 37.5746521 ] } }
+{ "type": "Feature", "properties": { "가게이�": "24시 무인카페 카페앤아이스", "주소": "서울 서대문구 모래내로 247 1층 카페앤아이스" }, "geometry": { "type": "Point", "coordinates": [ 126.9258304, 37.5758337 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페 이엘", "주소": "서울 서대문구 증가로 107 1~2F 카페이엘" }, "geometry": { "type": "Point", "coordinates": [ 126.9249493, 37.5763115 ] } }
+{ "type": "Feature", "properties": { "가게이�": "어뮤즈 그라운드", "주소": "서울 서대문구 가재울로4길 67 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9247325, 37.5764838 ] } }
+{ "type": "Feature", "properties": { "가게이�": "달디위드커피", "주소": "서울 서대문구 가재울로4길 57-55 1층 달디" }, "geometry": { "type": "Point", "coordinates": [ 126.9240477, 37.5763832 ] } }
+{ "type": "Feature", "properties": { "가게이�": "까페여름", "주소": "서울 서대문구 가재울로6길 53-3 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9238309, 37.5765054 ] } }
+{ "type": "Feature", "properties": { "가게이�": "노잉로스팅하우스", "주소": "서울 서대문구 가재울로6길 53-65 1층 노잉로스팅하우스" }, "geometry": { "type": "Point", "coordinates": [ 126.9229012, 37.5767329 ] } }
+{ "type": "Feature", "properties": { "가게이�": "컴포즈커피 명지대정문점", "주소": "서울 서대문구 거북골로 21 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9249945, 37.5800939 ] } }
+{ "type": "Feature", "properties": { "가게이�": "쩐쭈나이차", "주소": "서울 서대문구 거북골로 27" }, "geometry": { "type": "Point", "coordinates": [ 126.9245335, 37.5797933 ] } }
+{ "type": "Feature", "properties": { "가게이�": "달콤커피 명지대점", "주소": "서울 서대문구 거북골로 31" }, "geometry": { "type": "Point", "coordinates": [ 126.9242821, 37.5796151 ] } }
+{ "type": "Feature", "properties": { "가게이�": "투썸플레이스 명지대점", "주소": "서울 서대문구 거북골로 31-1 1~3층 투썸플레이스 명지대점" }, "geometry": { "type": "Point", "coordinates": [ 126.9241703, 37.5795399 ] } }
+{ "type": "Feature", "properties": { "가게이�": "공차 명지대점", "주소": "서울 서대문구 거북골로 33 1층 101호~103호" }, "geometry": { "type": "Point", "coordinates": [ 126.9240725, 37.5794703 ] } }
+{ "type": "Feature", "properties": { "가게이�": "이디야커피 명지대점", "주소": "서울 서대문구 거북골로 35" }, "geometry": { "type": "Point", "coordinates": [ 126.9239189, 37.5793729 ] } }
+{ "type": "Feature", "properties": { "가게이�": "썸띵크", "주소": "서울 서대문구 거북골로 37-4 2F" }, "geometry": { "type": "Point", "coordinates": [ 126.9237269, 37.579103 ] } }
+{ "type": "Feature", "properties": { "가게이�": "할리스 서울명지대점", "주소": "서울 서대문구 거북골로 41-1 1~2층" }, "geometry": { "type": "Point", "coordinates": [ 126.9233357, 37.5789303 ] } }
+{ "type": "Feature", "properties": { "가게이�": "오월의 이유", "주소": "서울 서대문구 증가로10길 36-41 1층 오월의 이유" }, "geometry": { "type": "Point", "coordinates": [ 126.9250936, 37.5787896 ] } }
+{ "type": "Feature", "properties": { "가게이�": "플러스82 서대문점", "주소": "서울 서대문구 증가로10길 36-55 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9246642, 37.5784027 ] } }
+{ "type": "Feature", "properties": { "가게이�": "같이가치", "주소": "서울 서대문구 증가로10길 36-8" }, "geometry": { "type": "Point", "coordinates": [ 126.9243741, 37.5784637 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페나리", "주소": "서울 서대문구 증가로10길 36-2" }, "geometry": { "type": "Point", "coordinates": [ 126.9241222, 37.578725 ] } }
+{ "type": "Feature", "properties": { "가게이�": "곰곰다방", "주소": "서울 서대문구 증가로10길 34 1층 곰곰다방" }, "geometry": { "type": "Point", "coordinates": [ 126.9240454, 37.578661 ] } }
+{ "type": "Feature", "properties": { "가게이�": "메가MGC커피 명지대점", "주소": "서울 서대문구 증가로 150 디엠씨센트럴 아이파크 상가동 B 306호" }, "geometry": { "type": "Point", "coordinates": [ 126.9215054, 37.5781365 ] } }
+{ "type": "Feature", "properties": { "가게이�": "컴포즈커피 명지대사거리점", "주소": "서울 서대문구 증가로 150 DMC센트럴아이파크 상가동B304호" }, "geometry": { "type": "Point", "coordinates": [ 126.9214706, 37.5780753 ] } }
+{ "type": "Feature", "properties": { "가게이�": "프티누아", "주소": "서울 서대문구 거북골로 61 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.921677, 37.577839 ] } }
+{ "type": "Feature", "properties": { "가게이�": "셀렉토커피 남가좌점", "주소": "서울 서대문구 증가로 132" }, "geometry": { "type": "Point", "coordinates": [ 126.9229807, 37.5775729 ] } }
+{ "type": "Feature", "properties": { "가게이�": "젤라킹", "주소": "서울 서대문구 증가로 102 1층 파프리카 내" }, "geometry": { "type": "Point", "coordinates": [ 126.9259279, 37.5761842 ] } }
+{ "type": "Feature", "properties": { "가게이�": "24시 무인달카페", "주소": "서울 서대문구 증가로 118 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9245536, 37.5771984 ] } }
+{ "type": "Feature", "properties": { "가게이�": "스필드컵", "주소": "서울 서대문구 수색로 56 1층 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.9121033, 37.570896 ] } }
+{ "type": "Feature", "properties": { "가게이�": "아로이커피 가재울점", "주소": "서울 서대문구 수색로6길 17-14 104호" }, "geometry": { "type": "Point", "coordinates": [ 126.9122147, 37.5712353 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페카티지", "주소": "서울 서대문구 가재울미래로 2 디엠씨파크뷰자이 5단지상가 501동 102호" }, "geometry": { "type": "Point", "coordinates": [ 126.9143379, 37.5723271 ] } }
+{ "type": "Feature", "properties": { "가게이�": "스타벅스 가재울뉴타운점", "주소": "서울 서대문구 가재울미래로 2 (남가좌동, DMC파크뷰자이2단지별동상가1층)" }, "geometry": { "type": "Point", "coordinates": [ 126.9162988, 37.5748984 ] } }
+{ "type": "Feature", "properties": { "가게이�": "공차 가재울점", "주소": "서울 서대문구 가재울미래로 2 DMC파크뷰자이2단지 별동상가 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9159212, 37.5750538 ] } }
+{ "type": "Feature", "properties": { "가게이�": "하삼동커피 가재울점", "주소": "서울 서대문구 거북골로 100 상가1층 12호" }, "geometry": { "type": "Point", "coordinates": [ 126.917158, 37.5752216 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페프리헷 남가좌점", "주소": "서울 서대문구 증가로 191 상가동 1층 104호" }, "geometry": { "type": "Point", "coordinates": [ 126.9160721, 37.5775682 ] } }
+{ "type": "Feature", "properties": { "가게이�": "커피사피엔스 DMC에코자이점", "주소": "서울 서대문구 거북골로 84 B2 115호" }, "geometry": { "type": "Point", "coordinates": [ 126.9201053, 37.5770759 ] } }
+{ "type": "Feature", "properties": { "가게이�": "커피호 서대문점", "주소": "서울 서대문구 증가로20가길 91" }, "geometry": { "type": "Point", "coordinates": [ 126.9194425, 37.582432 ] } }
+{ "type": "Feature", "properties": { "가게이�": "모두다가치 카페", "주소": "서울 서대문구 명지대길 50-7 1층 모두다가치 카페" }, "geometry": { "type": "Point", "coordinates": [ 126.9239297, 37.5824406 ] } }
+{ "type": "Feature", "properties": { "가게이�": "다몬브런치", "주소": "서울 서대문구 명지대5길 1" }, "geometry": { "type": "Point", "coordinates": [ 126.9232652, 37.5829686 ] } }
+{ "type": "Feature", "properties": { "가게이�": "양지다방", "주소": "서울 서대문구 명지대1라길 13 1층 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.9230776, 37.5818504 ] } }
+{ "type": "Feature", "properties": { "가게이�": "창경빈 커피", "주소": "서울 서대문구 명지대3길 38 1층1호" }, "geometry": { "type": "Point", "coordinates": [ 126.9216202, 37.5819885 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페만월경 남가좌점", "주소": "서울 서대문구 남가좌동 명지대길 91 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9231209, 37.583928 ] } }
+{ "type": "Feature", "properties": { "가게이�": "증가로커피공방", "주소": "서울 서대문구 명지대길 97 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9230821, 37.5842812 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GRAP", "주소": "서울 서대문구 명지대7길 21 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9219887, 37.5838188 ] } }
+{ "type": "Feature", "properties": { "가게이�": "카페 제이미쉬", "주소": "서울 서대문구 수색로 102 요진상가동 201호" }, "geometry": { "type": "Point", "coordinates": [ 126.9085507, 37.5729124 ] } }
+{ "type": "Feature", "properties": { "가게이�": "더벤티 가재울점", "주소": "서울 서대문구 수색로 100 2단지 상가 1층 4호" }, "geometry": { "type": "Point", "coordinates": [ 126.9113982, 37.5761686 ] } }
+{ "type": "Feature", "properties": { "가게이�": "컴포즈커피 가재울뉴타운점", "주소": "서울 서대문구 거북골로14길 32 제상가동 제지3층 제111호" }, "geometry": { "type": "Point", "coordinates": [ 126.9141911, 37.5754211 ] } }
+{ "type": "Feature", "properties": { "가게이�": "헨쇼", "주소": "서울 서대문구 거북골로21길 21 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9072406, 37.5783862 ] } }
+{ "type": "Feature", "properties": { "가게이�": "네마커피", "주소": "서울 서대문구 거북골로 208-1" }, "geometry": { "type": "Point", "coordinates": [ 126.9083789, 37.5790712 ] } }
+{ "type": "Feature", "properties": { "가게이�": "투썸플레이스 가재울뉴타운점", "주소": "서울 서대문구 수색로 100 DMC래미안e편한세상 401동 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9100094, 37.5774038 ] } }
+{ "type": "Feature", "properties": { "가게이�": "메가MGC커피 가재울북가좌초교점", "주소": "서울 서대문구 거북골로 184 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9104006, 37.5775348 ] } }
+{ "type": "Feature", "properties": { "가게이�": "몬스터커피 서울 북가좌동점", "주소": "서울 서대문구 거북골로 192" }, "geometry": { "type": "Point", "coordinates": [ 126.9096347, 37.5780445 ] } }
+{ "type": "Feature", "properties": { "가게이�": "스타벅스 북가좌DT점", "주소": "서울 서대문구 응암로 85 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9114891, 37.5805657 ] } }
+{ "type": "Feature", "properties": { "가게이�": "더벤티 북가좌점", "주소": "서울 서대문구 응암로 79 108호" }, "geometry": { "type": "Point", "coordinates": [ 126.9113532, 37.5802235 ] } }
+{ "type": "Feature", "properties": { "가게이�": "메리골드", "주소": "서울 서대문구 응암로2길 10 1층 메리골드" }, "geometry": { "type": "Point", "coordinates": [ 126.9121988, 37.5803215 ] } }
+{ "type": "Feature", "properties": { "가게이�": "컴포즈커피 북가좌오거리점", "주소": "서울 서대문구 응암로 89" }, "geometry": { "type": "Point", "coordinates": [ 126.9119253, 37.5810444 ] } }
+{ "type": "Feature", "properties": { "가게이�": "cafe239", "주소": "서울 서대문구 증가로23가길 9 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9139978, 37.5809291 ] } }

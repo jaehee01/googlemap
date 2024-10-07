@@ -1,0 +1,42 @@
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 증가로12나길 101" }, "geometry": { "type": "Point", "coordinates": [ 126.91986, 37.58271 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 거북골로 170" }, "geometry": { "type": "Point", "coordinates": [ 126.91147, 37.57666 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 증가로 264" }, "geometry": { "type": "Point", "coordinates": [ 126.9112, 37.58408 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "모두문구", "ADRES": "서울특별시 서대문구 북가좌동   377 -2" }, "geometry": { "type": "Point", "coordinates": [ 126.90919, 37.57799 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU남가좌현대점", "ADRES": "서울특별시 서대문구 남가좌동 74-22" }, "geometry": { "type": "Point", "coordinates": [ 126.9218, 37.57519 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS북가좌중앙점", "ADRES": "서울특별시 서대문구 북가좌동 5-95" }, "geometry": { "type": "Point", "coordinates": [ 126.91806, 37.581 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 증가로20길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.91648, 37.58077 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 증가로10길 16-41" }, "geometry": { "type": "Point", "coordinates": [ 126.92407, 37.57807 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 모래내로15길 50" }, "geometry": { "type": "Point", "coordinates": [ 126.91966, 37.57387 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 수색로6길 17-14" }, "geometry": { "type": "Point", "coordinates": [ 126.912253, 37.5712513 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU가재울래미안점", "ADRES": "서울특별시 서대문구 수색로6길 45" }, "geometry": { "type": "Point", "coordinates": [ 126.91341, 37.57232 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "세븐일레븐", "ADRES": "서울특별시 서대문구 증가로6길 32" }, "geometry": { "type": "Point", "coordinates": [ 126.92603, 37.57784 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 증가로31길 1" }, "geometry": { "type": "Point", "coordinates": [ 126.91136, 37.5835 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "세븐일레븐", "ADRES": "서울특별시 서대문구 모래내로 241-59" }, "geometry": { "type": "Point", "coordinates": [ 126.92448, 37.57598 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 거북골로 79" }, "geometry": { "type": "Point", "coordinates": [ 126.92031, 37.57676 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 증가로12가길 78" }, "geometry": { "type": "Point", "coordinates": [ 126.91805, 37.58103 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 증가로 243" }, "geometry": { "type": "Point", "coordinates": [ 126.91253, 37.58271 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 거북골로 209" }, "geometry": { "type": "Point", "coordinates": [ 126.90789, 37.57892 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 증가로12나길 101" }, "geometry": { "type": "Point", "coordinates": [ 126.91984, 37.5827 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 수색로10길 40" }, "geometry": { "type": "Point", "coordinates": [ 126.9045, 37.57668 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25가재울현대", "ADRES": "서울특별시 서대문구 모래내로15길 50" }, "geometry": { "type": "Point", "coordinates": [ 126.91966, 37.57387 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU서대문증가로점", "ADRES": "서울특별시 서대문구 증가로20길 64" }, "geometry": { "type": "Point", "coordinates": [ 126.91875, 37.58191 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 응암로2길 10" }, "geometry": { "type": "Point", "coordinates": [ 126.91218, 37.58029 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU명지대정문길점", "ADRES": "서울특별시 서대문구 거북골로 21" }, "geometry": { "type": "Point", "coordinates": [ 126.92496, 37.58009 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 가재울로 46" }, "geometry": { "type": "Point", "coordinates": [ 126.9218, 37.57521 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 증가로 264" }, "geometry": { "type": "Point", "coordinates": [ 126.91118, 37.58407 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25남가좌창덕", "ADRES": "서울특별시 서대문구 모래내로 143" }, "geometry": { "type": "Point", "coordinates": [ 126.91724, 37.56951 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "위드미서대문증가로점", "ADRES": "서울특별시 서대문구 증가로21길 20-7" }, "geometry": { "type": "Point", "coordinates": [ 126.91425, 37.58037 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU", "ADRES": "서울특별시 서대문구 증가로32안길 56" }, "geometry": { "type": "Point", "coordinates": [ 126.91388, 37.58512 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "이마트", "ADRES": "서울특별시 서대문구 증가로21길 20-7" }, "geometry": { "type": "Point", "coordinates": [ 126.91425, 37.58037 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25", "ADRES": "서울특별시 서대문구 증가로24라길 1" }, "geometry": { "type": "Point", "coordinates": [ 126.91674, 37.58239 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "세븐일레븐", "ADRES": "서울특별시 서대문구 거북골로22길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.9085, 37.57945 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "코리아세븐북가좌증가로점", "ADRES": "서울특별시 서대문구 증가로25길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.91347, 37.58116 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "GS25남가좌제일점", "ADRES": "서울특별시 서대문구 증가로 197-60" }, "geometry": { "type": "Point", "coordinates": [ 126.91538, 37.57813 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU북가좌현대점", "ADRES": "서울특별시 서대문구 응암로 33" }, "geometry": { "type": "Point", "coordinates": [ 126.90813, 37.57665 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "CU북가좌뉴욕점", "ADRES": "서울특별시 서대문구 거북골로20길 53-41" }, "geometry": { "type": "Point", "coordinates": [ 126.90978, 37.58071 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "알사탕문방구 북가좌DMC", "ADRES": null }, "geometry": { "type": "Point", "coordinates": [ 126.9106319, 37.5773183 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "문구야놀자 DMC루센티아점", "ADRES": null }, "geometry": { "type": "Point", "coordinates": [ 126.9180725, 37.5753286 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "빙구문구 가재울점", "ADRES": null }, "geometry": { "type": "Point", "coordinates": [ 126.9195412, 37.5741152 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "빵꾸똥꾸문구야 서대문은가어린이공원점", "ADRES": null }, "geometry": { "type": "Point", "coordinates": [ 126.9196524, 37.5829661 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "서울서대문경찰서남가좌파출소", "ADRES": null }, "geometry": { "type": "Point", "coordinates": [ 126.9240699, 37.5760327 ] } }
+{ "type": "Feature", "properties": { "SR_NM": "북가좌파출소", "ADRES": null }, "geometry": { "type": "Point", "coordinates": [ 126.9106563, 37.5812837 ] } }

@@ -1,0 +1,34 @@
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "한울뉴타운아파트 401동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9097802, 37.5772176 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC아이파크아파트 102동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9150238, 37.5767328 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 101동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9164432, 37.5788277 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 202동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9161791, 37.5784779 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 108동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9162313, 37.5782562 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 201동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9159008, 37.5781619 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이1단지 121동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9178873, 37.5714867 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이1단지 108동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9161902, 37.57279 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이1단지 126동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9201161, 37.5719206 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이3단지아파트 305동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9215389, 37.5731537 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "남가좌아이파크아파트 107동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9210369, 37.574424 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "남가좌아이파크아파트 110동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9204327, 37.5740476 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "남가좌아이파크아파트 102동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9211019, 37.5754278 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이1단지아파트 103동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9170465, 37.573628 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC에코자이아파트 109동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9184025, 37.5776477 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC에코자이아파트 106동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.918781, 37.5770728 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC에코자이아파트 107동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9185076, 37.5765651 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC에코자이아파트 101동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9188195, 37.5763886 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안루센티아아파트 103동 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9172273, 37.5767597 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안루센티아아파트 101동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9168077, 37.576079 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안루센티아아파트 107동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9176913, 37.575745 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC센트래빌아파트 204동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9158488, 37.5760708 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC센트래빌아파트 206동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9152494, 37.5756455 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC래미안클라시스아파트 111동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9165327, 37.5769434 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안루센티아 110동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9197714, 37.5762239 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이2단지아파트 220동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9154698, 37.5745997 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC파크뷰자이2단지아파트 214동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9141671, 37.5738037 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안남가좌2차아파트 104동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.91171, 37.5727201 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안남가좌2차아파트 112동 옆 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9116832, 37.5713376 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "래미안남가좌2차아파트 105동 앞 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9123064, 37.5715467 ] } }
+{ "type": "Feature", "properties": { "구분": "놀이터", "주소": "DMC한양아파트 놀이터" }, "geometry": { "type": "Point", "coordinates": [ 126.9104663, 37.5758761 ] } }
+{ "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 증가로 243 3층" }, "geometry": { "type": "Point", "coordinates": [ 126.9125821, 37.5827224 ] } }
+{ "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 수색로8길 48-4 나동 사회교육관 3층" }, "geometry": { "type": "Point", "coordinates": [ 126.9075618, 37.5762775 ] } }
+{ "type": "Feature", "properties": { "구분": "키즈카페", "주소": "서울 서대문구 거북골로18가길 23 북가좌동 휴먼빌 아파트" }, "geometry": { "type": "Point", "coordinates": [ 126.9117024, 37.5771608 ] } }

@@ -1,0 +1,17 @@
+{ "type": "Feature", "properties": { "가게이�": "잭슨피자 가좌점", "업종": "패스트푸드", "주소": "서울 서대문구 수색로 100 DMC래미안E편한세상3단지아파트 후문" }, "geometry": { "type": "Point", "coordinates": [ 126.9066953, 37.5746759 ] } }
+{ "type": "Feature", "properties": { "가게이�": "맘스터치 가재울점", "업종": "패스트푸드", "주소": "서울 서대문구 수색로 100" }, "geometry": { "type": "Point", "coordinates": [ 126.9117839, 37.5759421 ] } }
+{ "type": "Feature", "properties": { "가게이�": "버거킹 가재울뉴타운점", "업종": "패스트푸드", "주소": "서울 서대문구 수색로 56 성공타워1" }, "geometry": { "type": "Point", "coordinates": [ 126.9129363, 37.570527 ] } }
+{ "type": "Feature", "properties": { "가게이�": "롯데리아 가좌역점", "업종": "패스트푸드", "주소": "서울 서대문구 수색로6길 8 102~103호" }, "geometry": { "type": "Point", "coordinates": [ 126.9134896, 37.5707965 ] } }
+{ "type": "Feature", "properties": { "가게이�": "프랭크버거 남가좌금호리첸시아점", "업종": "패스트푸드", "주소": "서울 서대문구 수색로2길 39 DMC 금호리첸시아 103호" }, "geometry": { "type": "Point", "coordinates": [ 126.9159828, 37.5702136 ] } }
+{ "type": "Feature", "properties": { "가게이�": "웨스트버거", "업종": "패스트푸드", "주소": "서울 서대문구 가재울로 75-3" }, "geometry": { "type": "Point", "coordinates": [ 126.9205876, 37.5760877 ] } }
+{ "type": "Feature", "properties": { "가게이�": "구르미 김밥", "업종": "분식점", "주소": "서울 서대문구 거북골로20길 71 1층 구르미김밥" }, "geometry": { "type": "Point", "coordinates": [ 126.9113259, 37.5810589 ] } }
+{ "type": "Feature", "properties": { "가게이�": "김밥나라", "업종": "분식점", "주소": "서울 서대문구 응암로 90" }, "geometry": { "type": "Point", "coordinates": [ 126.9122241, 37.580769 ] } }
+{ "type": "Feature", "properties": { "가게이�": "여우애김밥", "업종": "분식점", "주소": "서울 서대문구 거북골로 178-1 1층 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.9106002, 37.5772857 ] } }
+{ "type": "Feature", "properties": { "가게이�": "김가네 김밥", "업종": "분식점", "주소": "서울 서대문구 수색로 100" }, "geometry": { "type": "Point", "coordinates": [ 126.9103131, 37.5771331 ] } }
+{ "type": "Feature", "properties": { "가게이�": "동대문엽기떡볶이 가재울점", "업종": "분식점", "주소": "서울 서대문구 수색로 100 디엠씨래미안2단지 상가 제1-6호" }, "geometry": { "type": "Point", "coordinates": [ 126.9114814, 37.5761432 ] } }
+{ "type": "Feature", "properties": { "가게이�": "103분식", "업종": "분식점", "주소": "서울 서대문구 거북골로 152" }, "geometry": { "type": "Point", "coordinates": [ 126.9129244, 37.5755821 ] } }
+{ "type": "Feature", "properties": { "가게이�": "신참떡볶이 가재울뉴타운점", "업종": "분식점", "주소": "서울 서대문구 가재울미래로 2 DMC파크뷰자이 2단지 221동 상가 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9152981, 37.5750361 ] } }
+{ "type": "Feature", "properties": { "가게이�": "연희김밥 가재울루센티아점", "업종": "분식점", "주소": "서울 서대문구 거북골로 100 래미안 루센티아" }, "geometry": { "type": "Point", "coordinates": [ 126.9170992, 37.5753089 ] } }
+{ "type": "Feature", "properties": { "가게이�": "청년다방 가재울점", "업종": "분식점", "주소": "서울 서대문구 가재울미래로 2 DMC 파크뷰자이 2단지 201동 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.9171837, 37.5746754 ] } }
+{ "type": "Feature", "properties": { "가게이�": "서오름피자 가좌점", "업종": "패스트푸드", "주소": "서울 서대문구 가재울미래로 2 상가동 221동 109호" }, "geometry": { "type": "Point", "coordinates": [ 126.9149988, 37.5750787 ] } }
+{ "type": "Feature", "properties": { "가게이�": "우리할매떡볶이 가재울점", "업종": "분식점", "주소": "서울 서대문구 거북골로 84 103동 114호" }, "geometry": { "type": "Point", "coordinates": [ 126.9197432, 37.5765254 ] } }

@@ -1,0 +1,54 @@
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌제일점", "주소": "서울특별시 서대문구 거북골로 170 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9114767, 37.5766699 ] } }
+{ "type": "Feature", "properties": { "가게이�": "북가좌에셀점", "주소": "서울특별시 서대문구 응암로2길 10 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9121851, 37.5802794 ] } }
+{ "type": "Feature", "properties": { "가게이�": "세븐일레븐 서대문북가좌점", "주소": "서울특별시 서대문구 응암로 126(북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9142864, 37.5835437 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌점", "주소": "서울특별시 서대문구 응암로 87 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.911675, 37.5807946 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 명지드림점", "주소": "서울특별시 서대문구 명지대1라길 24-4, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9225721, 37.5819397 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 북가좌뉴욕점", "주소": "서울특별시 서대문구 거북골로20길 53-41 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.90978, 37.58071 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 북가좌월드컵점", "주소": "서울특별시 서대문구 수색로10길 40 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9045, 37.57668 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 북가좌현대점", "주소": "서울특별시 서대문구 응암로 33, 103호 (북가좌동, 현대아파트상가)" }, "geometry": { "type": "Point", "coordinates": [ 126.90813, 37.57665 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 가재울편한점", "주소": "서울특별시 서대문구 수색로 100, 제1층 2-02호 (북가좌동, DMC래미안E편한세상제상가동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9110613, 37.5735212 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 북가좌삼거리점", "주소": "서울특별시 서대문구 수색로 144 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9052442, 37.5753233 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 서대문증가로점", "주소": "서울특별시 서대문구 증가로20길 64 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.91875, 37.58191 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU북가좌 증가로점", "주소": "서울특별시 서대문구 증가로20길 13 (북가좌동, 관인아이사랑어린이집)" }, "geometry": { "type": "Point", "coordinates": [ 126.9164751, 37.5807542 ] } }
+{ "type": "Feature", "properties": { "가게이�": "세븐일레븐 북가좌거북점", "주소": "서울특별시 서대문구 거북골로22길 13, 1층 (북가좌동, 블리스빌)" }, "geometry": { "type": "Point", "coordinates": [ 126.9085, 37.57945 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25남가좌창덕", "주소": "서울특별시 서대문구 모래내로 143, 105호 (남가좌동, 창덕에버빌)" }, "geometry": { "type": "Point", "coordinates": [ 126.91724, 37.56951 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 남가좌명지점", "주소": "서울특별시 서대문구 거북골로 51, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9226089, 37.5784519 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 서대문남가좌점", "주소": "서울특별시 서대문구 거북골로 51, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.92603, 37.57784 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU가재울래미안", "주소": "서울특별시 서대문구 수색로6길 45, 101동 103호 (남가좌동, 래미안남가좌2아파트)" }, "geometry": { "type": "Point", "coordinates": [ 126.9134341, 37.5723294 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌타운점", "주소": "서울특별시 서대문구 증가로31길 1, 1층 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.91136, 37.5835 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25남가좌홍제천점", "주소": "서울특별시 서대문구 모래내로 207, 마마스빌딩 102, 103호 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9168096, 37.5689951 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 가재울소망점", "주소": "서울특별시 서대문구 모래내로15길 30 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9204605, 37.57325 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌태양점", "주소": "서울특별시 서대문구 응암로 68, 가좌빌딩 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9116834, 37.5799824 ] } }
+{ "type": "Feature", "properties": { "가게이�": "이마트24 R남가좌진성", "주소": "서울특별시 서대문구 증가로10길 16-41, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.92407, 37.57807 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 명지대정문길", "주소": "서울특별시 서대문구 거북골로 21 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.92496, 37.58009 ] } }
+{ "type": "Feature", "properties": { "가게이�": "세븐일레븐 명지대행복점", "주소": "서울특별시 서대문구 증가로10길 59 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9250576, 37.5795728 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 북가좌증산교점", "주소": "서울특별시 서대문구 증가로 264, 1층 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9112, 37.58408 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 남가좌에코", "주소": "서울특별시 서대문구 거북골로 79, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.92031, 37.57676 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 명지남가좌점", "주소": "서울특별시 서대문구 명지대길 71, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9232301, 37.5831368 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 뉴모래내제일", "주소": "서울특별시 서대문구 수색로2길 8, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9163041, 37.5691774 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌중앙", "주소": "서울특별시 서대문구 증가로12가길 78, 1층 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.91806, 37.581 ] } }
+{ "type": "Feature", "properties": { "가게이�": "세븐일레븐 남가좌점", "주소": "서울특별시 서대문구 모래내로 241-59, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.92448, 37.57598 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 뉴가재울삼성", "주소": "서울특별시 서대문구 수색로6길 17-14, 성공타워2 1층 105,106호 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.912253, 37.5712513 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 가재울뉴타운점", "주소": "서울특별시 서대문구 가재울미래로 2, 상가201동 115호 (남가좌동, DMC파크뷰자이)" }, "geometry": { "type": "Point", "coordinates": [ 126.9178374, 37.5722576 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 북가좌제일점", "주소": "서울특별시 서대문구 증가로32안길 56, 101호 (북가좌동, 첼라넥스빌)" }, "geometry": { "type": "Point", "coordinates": [ 126.91388, 37.58512 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌센터점", "주소": "서울특별시 서대문구 증가로24라길 1, 지하1층 (북가좌동, 로운힐)" }, "geometry": { "type": "Point", "coordinates": [ 126.91674, 37.58239 ] } }
+{ "type": "Feature", "properties": { "가게이�": "세븐일레븐 북가좌증가로점", "주소": "서울특별시 서대문구 증가로25길 13, 1층 101호 (북가좌동, 동화아트빌)" }, "geometry": { "type": "Point", "coordinates": [ 126.9134857, 37.5811736 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 서대문리첸시아점", "주소": "서울특별시 서대문구 수색로2길 39, 1층 127호 (남가좌동, DMC금호리첸시아)" }, "geometry": { "type": "Point", "coordinates": [ 126.9157871, 37.5704789 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25남가좌제일점", "주소": "서울특별시 서대문구 증가로 197-60, 1층 101호 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9153945, 37.5781413 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 남가좌본점", "주소": "서울특별시 서대문구 증가로 116, 1층 101,102,103호 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9248158, 37.5771126 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 남가좌현대점", "주소": "서울특별시 서대문구 가재울로 46, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9218, 37.57519 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌은가점", "주소": "서울특별시 서대문구 증가로12나길 101, 대경빌딩 1층 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.91984, 37.5827 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 서대문에코자이점", "주소": "서울특별시 서대문구 거북골로 84, 상가1동 101호 (남가좌동, DMC에코자이)" }, "geometry": { "type": "Point", "coordinates": [ 126.9188088, 37.5759815 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 DMC가재울점", "주소": "서울특별시 서대문구 가재울미래로 2, 203동 101호 (남가좌동, DMC파크뷰자이)" }, "geometry": { "type": "Point", "coordinates": [ 126.9178374, 37.5722576 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 서대문센터점", "주소": "서울특별시 서대문구 증가로 243, 1층 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.91253, 37.58271 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 가재울현대점", "주소": "서울특별시 서대문구 모래내로15길 50, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.91966, 37.57387 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 남가좌점", "주소": "서울특별시 서대문구 증가로 117, 1층 (남가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9243675, 37.5769318 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 가재울센터점", "주소": "서울특별시 서대문구 가재울로 45, 상가2동 102,105,106,107일부호 (남가좌동, 남가좌동현대아파트)" }, "geometry": { "type": "Point", "coordinates": [ 126.9195166, 37.5741918 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 서대문하나점", "주소": "서울특별시 서대문구 증가로 197, 1층 (북가좌동)" }, "geometry": { "type": "Point", "coordinates": [ 126.9161979, 37.5797384 ] } }
+{ "type": "Feature", "properties": { "가게이�": "이마트24 북가좌래미안점", "주소": "서울 서대문구 수색로 100 가재울뉴타운 상가" }, "geometry": { "type": "Point", "coordinates": [ 126.9090456, 37.5734016 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 서대문아이파크점", "주소": "서울 서대문구 거북골로14길 32" }, "geometry": { "type": "Point", "coordinates": [ 126.9140196, 37.5754448 ] } }
+{ "type": "Feature", "properties": { "가게이�": "CU 가재울뉴타운점", "주소": "서울 서대문구 가재울미래로 2 상가 201동 1층 115호" }, "geometry": { "type": "Point", "coordinates": [ 126.9166457, 37.5749745 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 DMC가재울점", "주소": "서울 서대문구 가재울미래로 2 203동 101호" }, "geometry": { "type": "Point", "coordinates": [ 126.916224, 37.5738988 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 뉴가재울아이파크점", "주소": "서울 서대문구 가재울미래로 2 103동 105호" }, "geometry": { "type": "Point", "coordinates": [ 126.9166964, 37.5738204 ] } }
+{ "type": "Feature", "properties": { "가게이�": "이마트24 서대문증가로점", "주소": "서울 서대문구 증가로21길 20-7" }, "geometry": { "type": "Point", "coordinates": [ 126.9142721, 37.5804332 ] } }
+{ "type": "Feature", "properties": { "가게이�": "GS25 북가좌초교점", "주소": "서울 서대문구 거북골로 209 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.90789, 37.57892 ] } }
