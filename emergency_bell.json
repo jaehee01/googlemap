@@ -1,104 +1,104 @@
-{ "type": "Feature", "properties": { "안전비�": "서14-141", "소재지�": "서울특별시 서대문구 증가로32길 78" }, "geometry": { "type": "Point", "coordinates": [ 126.9140123, 37.5866972 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-102", "소재지�": "서울특별시 서대문구 수색로8가길 23" }, "geometry": { "type": "Point", "coordinates": [ 126.905502, 37.576465 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-102", "소재지�": "서울특별시 서대문구 증가로24라길 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9168662, 37.5822645 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-112", "소재지�": "서울특별시 서대문구 증가로32안길 56" }, "geometry": { "type": "Point", "coordinates": [ 126.9138323, 37.5852371 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-110", "소재지�": "서울특별시 서대문구 증가로23가길 1" }, "geometry": { "type": "Point", "coordinates": [ 126.914255, 37.580516 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-101", "소재지�": "서울특별시 서대문구 수색로2길 22" }, "geometry": { "type": "Point", "coordinates": [ 126.9160856, 37.5697563 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-103", "소재지�": "서울특별시 서대문구 수색로4가길 14-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9145205, 37.5705692 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-102", "소재지�": "서울특별시 서대문구 모래내로13길 25-6" }, "geometry": { "type": "Point", "coordinates": [ 126.9169115, 37.5702484 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-104", "소재지�": "서울특별시 서대문구 수색로8길 67" }, "geometry": { "type": "Point", "coordinates": [ 126.90628, 37.5771484 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-117", "소재지�": "서울특별시 서대문구 증가로20길 64" }, "geometry": { "type": "Point", "coordinates": [ 126.9187801, 37.58201 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-161", "소재지�": "서울특별시 서대문구 북가좌동 75-127" }, "geometry": { "type": "Point", "coordinates": [ 126.9138902, 37.5782043 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-123", "소재지�": "서울특별시 서대문구 증가로 248" }, "geometry": { "type": "Point", "coordinates": [ 126.9124566, 37.5831227 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-122", "소재지�": "서울특별시 서대문구 증가로30길 9-5" }, "geometry": { "type": "Point", "coordinates": [ 126.9125048, 37.5836685 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-121", "소재지�": "서울특별시 서대문구 증가로32길 9" }, "geometry": { "type": "Point", "coordinates": [ 126.9118735, 37.5840999 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-120", "소재지�": "서울특별시 서대문구 증가로32길 47 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.9133303, 37.5854532 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-119", "소재지�": "서울특별시 서대문구 증가로30길 37" }, "geometry": { "type": "Point", "coordinates": [ 126.9140067, 37.5846808 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-124", "소재지�": "서울특별시 서대문구 증가로32안길 29-5" }, "geometry": { "type": "Point", "coordinates": [ 126.913124, 37.584205 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-103", "소재지�": "서울특별시 서대문구 명지대1나길 5-6" }, "geometry": { "type": "Point", "coordinates": [ 126.9227607, 37.5810116 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-128", "소재지�": "서울특별시 서대문구 증가로 197-50" }, "geometry": { "type": "Point", "coordinates": [ 126.915533, 37.5785297 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-405", "소재지�": "서울특별시 서대문구 북가좌동 289-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9170507, 37.5795038 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-204", "소재지�": "서울특별시 서대문구 갈매연어린이공원(남가좌동 224-190)" }, "geometry": { "type": "Point", "coordinates": [ 126.9177559, 37.5789007 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-205", "소재지�": "서울특별시 서대문구 갈매연어린이공원1(남가좌동 175-29)" }, "geometry": { "type": "Point", "coordinates": [ 126.9172319, 37.5773114 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-301", "소재지�": "서울특별시 서대문구 북가좌1동 401-1 (북가좌초 정문)" }, "geometry": { "type": "Point", "coordinates": [ 126.9084421, 37.5774549 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-302", "소재지�": "서울특별시 서대문구 북가좌1동 375-12 (북가좌초 서문)" }, "geometry": { "type": "Point", "coordinates": [ 126.9067923, 37.577429 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-104", "소재지�": "서울특별시 서대문구 증가로8길 42-6" }, "geometry": { "type": "Point", "coordinates": [ 126.925471, 37.578028 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-108", "소재지�": "서울특별시 서대문구 증가로20길 30-14" }, "geometry": { "type": "Point", "coordinates": [ 126.9180065, 37.5807148 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-109", "소재지�": "서울특별시 서대문구 증가로12가길 23-43" }, "geometry": { "type": "Point", "coordinates": [ 126.9193922, 37.5787144 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-102", "소재지�": "서울특별시 서대문구 명지대1가길 22-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9226239, 37.5815026 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-107", "소재지�": "서울특별시 서대문구 가재울로8길 29" }, "geometry": { "type": "Point", "coordinates": [ 126.9227648, 37.5760295 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-113", "소재지�": "서울특별시 서대문구 불광천길 280" }, "geometry": { "type": "Point", "coordinates": [ 126.9117833, 37.5848269 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-105", "소재지�": "서울특별시 서대문구 거북골로14다길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.9149779, 37.5781176 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-108", "소재지�": "서울특별시 서대문구 증가로24나길 21" }, "geometry": { "type": "Point", "coordinates": [ 126.915611, 37.5816313 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-109", "소재지�": "서울특별시 서대문구 증가로21길 31" }, "geometry": { "type": "Point", "coordinates": [ 126.91381, 37.5798338 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-107", "소재지�": "서울특별시 서대문구 증가로28안길 40-8" }, "geometry": { "type": "Point", "coordinates": [ 126.915304, 37.583277 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-104", "소재지�": "서울특별시 서대문구 증가로21길 37-17" }, "geometry": { "type": "Point", "coordinates": [ 126.914109, 37.579112 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-101", "소재지�": "서울특별시 서대문구 수색로8길 46" }, "geometry": { "type": "Point", "coordinates": [ 126.9072291, 37.5766169 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-101", "소재지�": "서울특별시 서대문구 증가로24마길 31" }, "geometry": { "type": "Point", "coordinates": [ 126.9178472, 37.5829639 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-111", "소재지�": "서울특별시 서대문구 가재울로10길 34" }, "geometry": { "type": "Point", "coordinates": [ 126.922804, 37.576757 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-112", "소재지�": "서울특별시 서대문구 명지대길 54" }, "geometry": { "type": "Point", "coordinates": [ 126.9239047, 37.5823709 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-103", "소재지�": "서울특별시 서대문구 거북골로21길 58" }, "geometry": { "type": "Point", "coordinates": [ 126.905281, 37.577802 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-115", "소재지�": "서울특별시 서대문구 증가로 264" }, "geometry": { "type": "Point", "coordinates": [ 126.9110063, 37.5841938 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-114", "소재지�": "서울특별시 서대문구 불광천길 162" }, "geometry": { "type": "Point", "coordinates": [ 126.9090313, 37.5823396 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-116", "소재지�": "서울특별시 서대문구 증가로24길 27" }, "geometry": { "type": "Point", "coordinates": [ 126.9168769, 37.5810423 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-301", "소재지�": "서울특별시 서대문구 남가좌2동 224-278 (연가초 후문)" }, "geometry": { "type": "Point", "coordinates": [ 126.9185708, 37.5786972 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-301", "소재지�": "서울특별시 서대문구 북가좌동 316-32" }, "geometry": { "type": "Point", "coordinates": [ 126.9082279, 37.5789549 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-302", "소재지�": "서울특별시 서대문구 환희어린이집" }, "geometry": { "type": "Point", "coordinates": [ 126.9239175, 37.5781497 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-303", "소재지�": "서울특별시 서대문구 충암유치원정문" }, "geometry": { "type": "Point", "coordinates": [ 126.9222011, 37.5838329 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-302", "소재지�": "서울특별시 서대문구 세종유치원" }, "geometry": { "type": "Point", "coordinates": [ 126.9132049, 37.577377 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-201", "소재지�": "서울특별시 서대문구 남가좌2동 326-8(연남어린이공원)" }, "geometry": { "type": "Point", "coordinates": [ 126.9252752, 37.5782512 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-202", "소재지�": "서울특별시 서대문구 남가좌2동 376-4(가좌어린이공원)" }, "geometry": { "type": "Point", "coordinates": [ 126.9205693, 37.5758675 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-201", "소재지�": "서울특별시 서대문구 북가좌2동 318-1(신가어린이공원)" }, "geometry": { "type": "Point", "coordinates": [ 126.9083322, 37.5802885 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서10-405", "소재지�": "서울특별시 서대문구 남가좌동 3-2 [충암유치원후문]" }, "geometry": { "type": "Point", "coordinates": [ 126.9231603, 37.5838103 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-406", "소재지�": "서울특별시 서대문구 남가좌동 236-1 맞은편 [연가초교(정문앞 공원)]" }, "geometry": { "type": "Point", "coordinates": [ 126.9193977, 37.5803178 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-404", "소재지�": "서울특별시 서대문구 북가좌동 376-18 [북가좌초 주차장]" }, "geometry": { "type": "Point", "coordinates": [ 126.9088634, 37.5783775 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-402", "소재지�": "서울특별시 서대문구 남가좌동 188-6 [가재울초교]" }, "geometry": { "type": "Point", "coordinates": [ 126.9190344, 37.5742264 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-403", "소재지�": "서울특별시 서대문구 남가좌동 119-41 [가재울초교]" }, "geometry": { "type": "Point", "coordinates": [ 126.9202896, 37.573257 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-202-1", "소재지�": "서울특별시 서대문구 은가어린이공원(정자)" }, "geometry": { "type": "Point", "coordinates": [ 126.919448, 37.582695 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-202-2", "소재지�": "서울특별시 서대문구 은가어린이공원(입구)" }, "geometry": { "type": "Point", "coordinates": [ 126.919448, 37.582695 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-203", "소재지�": "서울특별시 서대문구 거꾸로어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.913267, 37.585314 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-201", "소재지�": "서울특별시 서대문구 나비울어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.9097772, 37.5747804 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-202-1", "소재지�": "서울특별시 서대문구 중앙근린공원(정자4,도서관1,화장실2,공터)" }, "geometry": { "type": "Point", "coordinates": [ 126.912988, 37.574939 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-202-2", "소재지�": "서울특별시 서대문구 중앙근린공원" }, "geometry": { "type": "Point", "coordinates": [ 126.913556, 37.574936 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-204", "소재지�": "서울특별시 서대문구 가재울어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.910431, 37.582378 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-202", "소재지�": "서울특별시 서대문구 가재어린이공원  -> 2017년 추가사업 카메라 1대 추가" }, "geometry": { "type": "Point", "coordinates": [ 126.918545, 37.574108 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-203", "소재지�": "서울특별시 서대문구 한울소공원" }, "geometry": { "type": "Point", "coordinates": [ 126.916511, 37.570861 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-201", "소재지�": "서울특별시 서대문구 모래내어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.914038, 37.5719682 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-205", "소재지�": "서울특별시 서대문구 북가좌정원지구 어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.9169531, 37.5796551 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-203", "소재지�": "서울특별시 서대문구 까치소공원" }, "geometry": { "type": "Point", "coordinates": [ 126.9070105, 37.5792021 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-203", "소재지�": "서울특별시 서대문구 남가좌동 어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.919415, 37.580063 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-113", "소재지�": "서울특별시 서대문구 가재울로 74 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.9207713, 37.5763866 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-105", "소재지�": "서울특별시 서대문구 거북골로21길 30" }, "geometry": { "type": "Point", "coordinates": [ 126.9066334, 37.5781712 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-129", "소재지�": "서울특별시 서대문구 명지대3길 47-10" }, "geometry": { "type": "Point", "coordinates": [ 126.9213598, 37.5813089 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-130", "소재지�": "서울특별시 서대문구 거북골로14길 86 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.913242, 37.578725 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-115", "소재지�": "서울특별시 서대문구 가재울로4길 57-8" }, "geometry": { "type": "Point", "coordinates": [ 126.9241133, 37.5764574 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-116", "소재지�": "서울특별시 서대문구 가재울로2길 18" }, "geometry": { "type": "Point", "coordinates": [ 126.9231941, 37.5743608 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-132", "소재지�": "서울특별시 서대문구 거북골로18길 36" }, "geometry": { "type": "Point", "coordinates": [ 126.9113702, 37.5789335 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-107", "소재지�": "서울특별시 서대문구 수색로8길 26" }, "geometry": { "type": "Point", "coordinates": [ 126.906526, 37.575778 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-117", "소재지�": "서울특별시 서대문구 거북골로 53-31" }, "geometry": { "type": "Point", "coordinates": [ 126.9231565, 37.578182 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-134", "소재지�": "서울특별시 서대문구 증가로 197-80" }, "geometry": { "type": "Point", "coordinates": [ 126.9151687, 37.5771697 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-120", "소재지�": "서울특별시 서대문구 가재울로14길 22" }, "geometry": { "type": "Point", "coordinates": [ 126.9215993, 37.5770133 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서13-110", "소재지�": "서울특별시 서대문구 불광천길14" }, "geometry": { "type": "Point", "coordinates": [ 126.9038642, 37.5770681 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-136", "소재지�": "서울특별시 서대문구 증가로17길 23" }, "geometry": { "type": "Point", "coordinates": [ 126.9150255, 37.5792143 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-138", "소재지�": "서울특별시 서대문구 증가로 23길 39" }, "geometry": { "type": "Point", "coordinates": [ 126.9130698, 37.5800846 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-139", "소재지�": "서울특별시 서대문구 증가로30길 79 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.9149932, 37.586007 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-106", "소재지�": "서울특별시 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9165922, 37.5713906 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-107", "소재지�": "서울특별시 서대문구 모래내로13길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.9167676, 37.5694311 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-123", "소재지�": "서울특별시 서대문구 가재울로4길 36" }, "geometry": { "type": "Point", "coordinates": [ 126.9237022, 37.5753971 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-145", "소재지�": "서울특별시 서대문구 응암로1길 20" }, "geometry": { "type": "Point", "coordinates": [ 126.9100503, 37.5819142 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-148", "소재지�": "서울특별시 서대문구 거북골로23길 20-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9059805, 37.5791915 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-151", "소재지�": "서울특별시 서대문구 증가로28길 18-3" }, "geometry": { "type": "Point", "coordinates": [ 126.9147786, 37.5824576 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-102", "소재지�": "서울특별시 서대문구 모래내로13길 23" }, "geometry": { "type": "Point", "coordinates": [ 126.9169115, 37.5702484 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-110", "소재지�": "서울특별시 서대문구 수색로4가길 외환은행" }, "geometry": { "type": "Point", "coordinates": [ 126.9136623, 37.5701966 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-125", "소재지�": "서울특별시 서대문구 거북골로 57-1" }, "geometry": { "type": "Point", "coordinates": [ 126.9219247, 37.5780497 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-127", "소재지�": "서울특별시 서대문구 거북골로 91-6" }, "geometry": { "type": "Point", "coordinates": [ 126.9197592, 37.5754683 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-153", "소재지�": "서울특별시 서대문구 증가로 150 (105동 앞)" }, "geometry": { "type": "Point", "coordinates": [ 126.9201694, 37.5809998 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-154", "소재지�": "서울특별시 서대문구 증가로25길 12" }, "geometry": { "type": "Point", "coordinates": [ 126.9135172, 37.5814416 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-159", "소재지�": "서울특별시 서대문구 거북골로22길 57 옆" }, "geometry": { "type": "Point", "coordinates": [ 126.9099746, 37.581198 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-131", "소재지�": "서울특별시 서대문구 거북골로14길 50" }, "geometry": { "type": "Point", "coordinates": [ 126.9139505, 37.577445 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서11-105", "소재지�": "서울특별시 서대문구 수색로4가길 12-5" }, "geometry": { "type": "Point", "coordinates": [ 126.9150516, 37.5705671 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-106", "소재지�": "서울특별시 서대문구 증가로8길 21" }, "geometry": { "type": "Point", "coordinates": [ 126.92483, 37.578164 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서12-101", "소재지�": "서울특별시 서대문구 명지대5길 20" }, "geometry": { "type": "Point", "coordinates": [ 126.922218, 37.5828679 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-103", "소재지�": "서울특별시 서대문구 증가로12나길 63-5" }, "geometry": { "type": "Point", "coordinates": [ 126.9206364, 37.5816643 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-106", "소재지�": "서울특별시 서대문구 증가로23다길 44" }, "geometry": { "type": "Point", "coordinates": [ 126.9142376, 37.5783281 ] } }
-{ "type": "Feature", "properties": { "안전비�": "서14-111", "소재지�": "서울특별시 서대문구 거북골로22길 29-51" }, "geometry": { "type": "Point", "coordinates": [ 126.9086139, 37.5803076 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-141", "소재지주소": "서울특별시 서대문구 증가로32길 78" }, "geometry": { "type": "Point", "coordinates": [ 126.9140123, 37.5866972 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-102", "소재지주소": "서울특별시 서대문구 수색로8가길 23" }, "geometry": { "type": "Point", "coordinates": [ 126.905502, 37.576465 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-102", "소재지주소": "서울특별시 서대문구 증가로24라길 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9168662, 37.5822645 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-112", "소재지주소": "서울특별시 서대문구 증가로32안길 56" }, "geometry": { "type": "Point", "coordinates": [ 126.9138323, 37.5852371 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-110", "소재지주소": "서울특별시 서대문구 증가로23가길 1" }, "geometry": { "type": "Point", "coordinates": [ 126.914255, 37.580516 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-101", "소재지주소": "서울특별시 서대문구 수색로2길 22" }, "geometry": { "type": "Point", "coordinates": [ 126.9160856, 37.5697563 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-103", "소재지주소": "서울특별시 서대문구 수색로4가길 14-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9145205, 37.5705692 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-102", "소재지주소": "서울특별시 서대문구 모래내로13길 25-6" }, "geometry": { "type": "Point", "coordinates": [ 126.9169115, 37.5702484 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-104", "소재지주소": "서울특별시 서대문구 수색로8길 67" }, "geometry": { "type": "Point", "coordinates": [ 126.90628, 37.5771484 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-117", "소재지주소": "서울특별시 서대문구 증가로20길 64" }, "geometry": { "type": "Point", "coordinates": [ 126.9187801, 37.58201 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-161", "소재지주소": "서울특별시 서대문구 북가좌동 75-127" }, "geometry": { "type": "Point", "coordinates": [ 126.9138902, 37.5782043 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-123", "소재지주소": "서울특별시 서대문구 증가로 248" }, "geometry": { "type": "Point", "coordinates": [ 126.9124566, 37.5831227 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-122", "소재지주소": "서울특별시 서대문구 증가로30길 9-5" }, "geometry": { "type": "Point", "coordinates": [ 126.9125048, 37.5836685 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-121", "소재지주소": "서울특별시 서대문구 증가로32길 9" }, "geometry": { "type": "Point", "coordinates": [ 126.9118735, 37.5840999 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-120", "소재지주소": "서울특별시 서대문구 증가로32길 47 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.9133303, 37.5854532 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-119", "소재지주소": "서울특별시 서대문구 증가로30길 37" }, "geometry": { "type": "Point", "coordinates": [ 126.9140067, 37.5846808 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-124", "소재지주소": "서울특별시 서대문구 증가로32안길 29-5" }, "geometry": { "type": "Point", "coordinates": [ 126.913124, 37.584205 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-103", "소재지주소": "서울특별시 서대문구 명지대1나길 5-6" }, "geometry": { "type": "Point", "coordinates": [ 126.9227607, 37.5810116 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-128", "소재지주소": "서울특별시 서대문구 증가로 197-50" }, "geometry": { "type": "Point", "coordinates": [ 126.915533, 37.5785297 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-405", "소재지주소": "서울특별시 서대문구 북가좌동 289-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9170507, 37.5795038 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-204", "소재지주소": "서울특별시 서대문구 갈매연어린이공원(남가좌동 224-190)" }, "geometry": { "type": "Point", "coordinates": [ 126.9177559, 37.5789007 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-205", "소재지주소": "서울특별시 서대문구 갈매연어린이공원1(남가좌동 175-29)" }, "geometry": { "type": "Point", "coordinates": [ 126.9172319, 37.5773114 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-301", "소재지주소": "서울특별시 서대문구 북가좌1동 401-1 (북가좌초 정문)" }, "geometry": { "type": "Point", "coordinates": [ 126.9084421, 37.5774549 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-302", "소재지주소": "서울특별시 서대문구 북가좌1동 375-12 (북가좌초 서문)" }, "geometry": { "type": "Point", "coordinates": [ 126.9067923, 37.577429 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-104", "소재지주소": "서울특별시 서대문구 증가로8길 42-6" }, "geometry": { "type": "Point", "coordinates": [ 126.925471, 37.578028 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-108", "소재지주소": "서울특별시 서대문구 증가로20길 30-14" }, "geometry": { "type": "Point", "coordinates": [ 126.9180065, 37.5807148 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-109", "소재지주소": "서울특별시 서대문구 증가로12가길 23-43" }, "geometry": { "type": "Point", "coordinates": [ 126.9193922, 37.5787144 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-102", "소재지주소": "서울특별시 서대문구 명지대1가길 22-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9226239, 37.5815026 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-107", "소재지주소": "서울특별시 서대문구 가재울로8길 29" }, "geometry": { "type": "Point", "coordinates": [ 126.9227648, 37.5760295 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-113", "소재지주소": "서울특별시 서대문구 불광천길 280" }, "geometry": { "type": "Point", "coordinates": [ 126.9117833, 37.5848269 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-105", "소재지주소": "서울특별시 서대문구 거북골로14다길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.9149779, 37.5781176 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-108", "소재지주소": "서울특별시 서대문구 증가로24나길 21" }, "geometry": { "type": "Point", "coordinates": [ 126.915611, 37.5816313 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-109", "소재지주소": "서울특별시 서대문구 증가로21길 31" }, "geometry": { "type": "Point", "coordinates": [ 126.91381, 37.5798338 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-107", "소재지주소": "서울특별시 서대문구 증가로28안길 40-8" }, "geometry": { "type": "Point", "coordinates": [ 126.915304, 37.583277 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-104", "소재지주소": "서울특별시 서대문구 증가로21길 37-17" }, "geometry": { "type": "Point", "coordinates": [ 126.914109, 37.579112 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-101", "소재지주소": "서울특별시 서대문구 수색로8길 46" }, "geometry": { "type": "Point", "coordinates": [ 126.9072291, 37.5766169 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-101", "소재지주소": "서울특별시 서대문구 증가로24마길 31" }, "geometry": { "type": "Point", "coordinates": [ 126.9178472, 37.5829639 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-111", "소재지주소": "서울특별시 서대문구 가재울로10길 34" }, "geometry": { "type": "Point", "coordinates": [ 126.922804, 37.576757 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-112", "소재지주소": "서울특별시 서대문구 명지대길 54" }, "geometry": { "type": "Point", "coordinates": [ 126.9239047, 37.5823709 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-103", "소재지주소": "서울특별시 서대문구 거북골로21길 58" }, "geometry": { "type": "Point", "coordinates": [ 126.905281, 37.577802 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-115", "소재지주소": "서울특별시 서대문구 증가로 264" }, "geometry": { "type": "Point", "coordinates": [ 126.9110063, 37.5841938 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-114", "소재지주소": "서울특별시 서대문구 불광천길 162" }, "geometry": { "type": "Point", "coordinates": [ 126.9090313, 37.5823396 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-116", "소재지주소": "서울특별시 서대문구 증가로24길 27" }, "geometry": { "type": "Point", "coordinates": [ 126.9168769, 37.5810423 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-301", "소재지주소": "서울특별시 서대문구 남가좌2동 224-278 (연가초 후문)" }, "geometry": { "type": "Point", "coordinates": [ 126.9185708, 37.5786972 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-301", "소재지주소": "서울특별시 서대문구 북가좌동 316-32" }, "geometry": { "type": "Point", "coordinates": [ 126.9082279, 37.5789549 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-302", "소재지주소": "서울특별시 서대문구 환희어린이집" }, "geometry": { "type": "Point", "coordinates": [ 126.9239175, 37.5781497 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-303", "소재지주소": "서울특별시 서대문구 충암유치원정문" }, "geometry": { "type": "Point", "coordinates": [ 126.9222011, 37.5838329 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-302", "소재지주소": "서울특별시 서대문구 세종유치원" }, "geometry": { "type": "Point", "coordinates": [ 126.9132049, 37.577377 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-201", "소재지주소": "서울특별시 서대문구 남가좌2동 326-8(연남어린이공원)" }, "geometry": { "type": "Point", "coordinates": [ 126.9252752, 37.5782512 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-202", "소재지주소": "서울특별시 서대문구 남가좌2동 376-4(가좌어린이공원)" }, "geometry": { "type": "Point", "coordinates": [ 126.9205693, 37.5758675 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-201", "소재지주소": "서울특별시 서대문구 북가좌2동 318-1(신가어린이공원)" }, "geometry": { "type": "Point", "coordinates": [ 126.9083322, 37.5802885 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서10-405", "소재지주소": "서울특별시 서대문구 남가좌동 3-2 [충암유치원후문]" }, "geometry": { "type": "Point", "coordinates": [ 126.9231603, 37.5838103 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-406", "소재지주소": "서울특별시 서대문구 남가좌동 236-1 맞은편 [연가초교(정문앞 공원)]" }, "geometry": { "type": "Point", "coordinates": [ 126.9193977, 37.5803178 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-404", "소재지주소": "서울특별시 서대문구 북가좌동 376-18 [북가좌초 주차장]" }, "geometry": { "type": "Point", "coordinates": [ 126.9088634, 37.5783775 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-402", "소재지주소": "서울특별시 서대문구 남가좌동 188-6 [가재울초교]" }, "geometry": { "type": "Point", "coordinates": [ 126.9190344, 37.5742264 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-403", "소재지주소": "서울특별시 서대문구 남가좌동 119-41 [가재울초교]" }, "geometry": { "type": "Point", "coordinates": [ 126.9202896, 37.573257 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-202-1", "소재지주소": "서울특별시 서대문구 은가어린이공원(정자)" }, "geometry": { "type": "Point", "coordinates": [ 126.919448, 37.582695 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-202-2", "소재지주소": "서울특별시 서대문구 은가어린이공원(입구)" }, "geometry": { "type": "Point", "coordinates": [ 126.919448, 37.582695 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-203", "소재지주소": "서울특별시 서대문구 거꾸로어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.913267, 37.585314 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-201", "소재지주소": "서울특별시 서대문구 나비울어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.9097772, 37.5747804 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-202-1", "소재지주소": "서울특별시 서대문구 중앙근린공원(정자4,도서관1,화장실2,공터)" }, "geometry": { "type": "Point", "coordinates": [ 126.912988, 37.574939 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-202-2", "소재지주소": "서울특별시 서대문구 중앙근린공원" }, "geometry": { "type": "Point", "coordinates": [ 126.913556, 37.574936 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-204", "소재지주소": "서울특별시 서대문구 가재울어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.910431, 37.582378 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-202", "소재지주소": "서울특별시 서대문구 가재어린이공원  -> 2017년 추가사업 카메라 1대 추가" }, "geometry": { "type": "Point", "coordinates": [ 126.918545, 37.574108 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-203", "소재지주소": "서울특별시 서대문구 한울소공원" }, "geometry": { "type": "Point", "coordinates": [ 126.916511, 37.570861 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-201", "소재지주소": "서울특별시 서대문구 모래내어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.914038, 37.5719682 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-205", "소재지주소": "서울특별시 서대문구 북가좌정원지구 어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.9169531, 37.5796551 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-203", "소재지주소": "서울특별시 서대문구 까치소공원" }, "geometry": { "type": "Point", "coordinates": [ 126.9070105, 37.5792021 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-203", "소재지주소": "서울특별시 서대문구 남가좌동 어린이공원" }, "geometry": { "type": "Point", "coordinates": [ 126.919415, 37.580063 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-113", "소재지주소": "서울특별시 서대문구 가재울로 74 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.9207713, 37.5763866 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-105", "소재지주소": "서울특별시 서대문구 거북골로21길 30" }, "geometry": { "type": "Point", "coordinates": [ 126.9066334, 37.5781712 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-129", "소재지주소": "서울특별시 서대문구 명지대3길 47-10" }, "geometry": { "type": "Point", "coordinates": [ 126.9213598, 37.5813089 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-130", "소재지주소": "서울특별시 서대문구 거북골로14길 86 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.913242, 37.578725 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-115", "소재지주소": "서울특별시 서대문구 가재울로4길 57-8" }, "geometry": { "type": "Point", "coordinates": [ 126.9241133, 37.5764574 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-116", "소재지주소": "서울특별시 서대문구 가재울로2길 18" }, "geometry": { "type": "Point", "coordinates": [ 126.9231941, 37.5743608 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-132", "소재지주소": "서울특별시 서대문구 거북골로18길 36" }, "geometry": { "type": "Point", "coordinates": [ 126.9113702, 37.5789335 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-107", "소재지주소": "서울특별시 서대문구 수색로8길 26" }, "geometry": { "type": "Point", "coordinates": [ 126.906526, 37.575778 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-117", "소재지주소": "서울특별시 서대문구 거북골로 53-31" }, "geometry": { "type": "Point", "coordinates": [ 126.9231565, 37.578182 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-134", "소재지주소": "서울특별시 서대문구 증가로 197-80" }, "geometry": { "type": "Point", "coordinates": [ 126.9151687, 37.5771697 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-120", "소재지주소": "서울특별시 서대문구 가재울로14길 22" }, "geometry": { "type": "Point", "coordinates": [ 126.9215993, 37.5770133 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서13-110", "소재지주소": "서울특별시 서대문구 불광천길14" }, "geometry": { "type": "Point", "coordinates": [ 126.9038642, 37.5770681 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-136", "소재지주소": "서울특별시 서대문구 증가로17길 23" }, "geometry": { "type": "Point", "coordinates": [ 126.9150255, 37.5792143 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-138", "소재지주소": "서울특별시 서대문구 증가로 23길 39" }, "geometry": { "type": "Point", "coordinates": [ 126.9130698, 37.5800846 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-139", "소재지주소": "서울특별시 서대문구 증가로30길 79 맞은편" }, "geometry": { "type": "Point", "coordinates": [ 126.9149932, 37.586007 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-106", "소재지주소": "서울특별시 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9165922, 37.5713906 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-107", "소재지주소": "서울특별시 서대문구 모래내로13길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.9167676, 37.5694311 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-123", "소재지주소": "서울특별시 서대문구 가재울로4길 36" }, "geometry": { "type": "Point", "coordinates": [ 126.9237022, 37.5753971 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-145", "소재지주소": "서울특별시 서대문구 응암로1길 20" }, "geometry": { "type": "Point", "coordinates": [ 126.9100503, 37.5819142 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-148", "소재지주소": "서울특별시 서대문구 거북골로23길 20-4" }, "geometry": { "type": "Point", "coordinates": [ 126.9059805, 37.5791915 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-151", "소재지주소": "서울특별시 서대문구 증가로28길 18-3" }, "geometry": { "type": "Point", "coordinates": [ 126.9147786, 37.5824576 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-102", "소재지주소": "서울특별시 서대문구 모래내로13길 23" }, "geometry": { "type": "Point", "coordinates": [ 126.9169115, 37.5702484 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-110", "소재지주소": "서울특별시 서대문구 수색로4가길 외환은행" }, "geometry": { "type": "Point", "coordinates": [ 126.9136623, 37.5701966 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-125", "소재지주소": "서울특별시 서대문구 거북골로 57-1" }, "geometry": { "type": "Point", "coordinates": [ 126.9219247, 37.5780497 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-127", "소재지주소": "서울특별시 서대문구 거북골로 91-6" }, "geometry": { "type": "Point", "coordinates": [ 126.9197592, 37.5754683 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-153", "소재지주소": "서울특별시 서대문구 증가로 150 (105동 앞)" }, "geometry": { "type": "Point", "coordinates": [ 126.9201694, 37.5809998 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-154", "소재지주소": "서울특별시 서대문구 증가로25길 12" }, "geometry": { "type": "Point", "coordinates": [ 126.9135172, 37.5814416 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-159", "소재지주소": "서울특별시 서대문구 거북골로22길 57 옆" }, "geometry": { "type": "Point", "coordinates": [ 126.9099746, 37.581198 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-131", "소재지주소": "서울특별시 서대문구 거북골로14길 50" }, "geometry": { "type": "Point", "coordinates": [ 126.9139505, 37.577445 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서11-105", "소재지주소": "서울특별시 서대문구 수색로4가길 12-5" }, "geometry": { "type": "Point", "coordinates": [ 126.9150516, 37.5705671 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-106", "소재지주소": "서울특별시 서대문구 증가로8길 21" }, "geometry": { "type": "Point", "coordinates": [ 126.92483, 37.578164 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서12-101", "소재지주소": "서울특별시 서대문구 명지대5길 20" }, "geometry": { "type": "Point", "coordinates": [ 126.922218, 37.5828679 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-103", "소재지주소": "서울특별시 서대문구 증가로12나길 63-5" }, "geometry": { "type": "Point", "coordinates": [ 126.9206364, 37.5816643 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-106", "소재지주소": "서울특별시 서대문구 증가로23다길 44" }, "geometry": { "type": "Point", "coordinates": [ 126.9142376, 37.5783281 ] } }
+{ "type": "Feature", "properties": { "안전비상벨번호": "서14-111", "소재지주소": "서울특별시 서대문구 거북골로22길 29-51" }, "geometry": { "type": "Point", "coordinates": [ 126.9086139, 37.5803076 ] } }
