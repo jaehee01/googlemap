@@ -1,23 +1,28 @@
-{ "type": "Feature", "properties": { "가게명": "배스킨라빈스 가좌역점", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2 DMC파크뷰자이 4단지 상가 403, 404호 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9144933, 37.5718756 ] } }
-{ "type": "Feature", "properties": { "가게명": "던킨 가재울뉴타운점", "업종": "도넛", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9159372, 37.5732071 ] } }
-{ "type": "Feature", "properties": { "가게명": "헷키", "업종": "케이크", "주소": "서울 서대문구 가재울로4길 62 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9247678, 37.5761834 ] } }
-{ "type": "Feature", "properties": { "가게명": "대단한탕후루 명지대점", "업종": "탕후루", "주소": "서울 서대문구 거북골로 27 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9245021, 37.579771 ] } }
-{ "type": "Feature", "properties": { "가게명": "와플대학 명지대캠퍼스", "업종": "와플", "주소": "서울 서대문구 거북골로 51 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9226582, 37.5785099 ] } }
-{ "type": "Feature", "properties": { "가게명": "설빙 명지대점", "업종": "빙수", "주소": "서울 서대문구 증가로 150 DMC2차 센트럴아이파크상가 2층" }, "geometry": { "type": "Point", "coordinates": [ 126.9216381, 37.578284 ] } }
-{ "type": "Feature", "properties": { "가게명": "배스킨라빈스 남가좌점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 57 1층 우호" }, "geometry": { "type": "Point", "coordinates": [ 126.922096, 37.5781035 ] } }
-{ "type": "Feature", "properties": { "가게명": "스마일명품찹쌀꽈배기 남가좌점", "업종": "꽈배기", "주소": "서울 서대문구 증가로 124" }, "geometry": { "type": "Point", "coordinates": [ 126.9239663, 37.577415 ] } }
-{ "type": "Feature", "properties": { "가게명": "설빙고24 아이스크림할인점", "업종": "아이스크림", "주소": "서울 서대문구 북가좌동 수색로6길 17-14" }, "geometry": { "type": "Point", "coordinates": [ 126.9120258, 37.5713798 ] } }
-{ "type": "Feature", "properties": { "가게명": "다레젤라또", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9149384, 37.5727837 ] } }
-{ "type": "Feature", "properties": { "가게명": "아이스박스 가재울점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 150 1층 3호" }, "geometry": { "type": "Point", "coordinates": [ 126.9131077, 37.5755093 ] } }
-{ "type": "Feature", "properties": { "가게명": "배스킨라빈스 북가좌점", "업종": "아이스크림", "주소": "서울 서대문구 응암로 53 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.909694, 37.5781378 ] } }
-{ "type": "Feature", "properties": { "가게명": "최고의꽈배기", "업종": "꽈배기", "주소": "서울 서대문구 응암로 94 1층 최고의꽈배기" }, "geometry": { "type": "Point", "coordinates": [ 126.9125193, 37.5811311 ] } }
-{ "type": "Feature", "properties": { "가게명": "복호두", "업종": "호두과자", "주소": "서울 서대문구 거북골로14길 32 DMC 아이파크아파트 상가동 104호" }, "geometry": { "type": "Point", "coordinates": [ 126.9139271, 37.5754412 ] } }
-{ "type": "Feature", "properties": { "가게명": "아이스크림스토리 북가좌점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 194" }, "geometry": { "type": "Point", "coordinates": [ 126.9093931, 37.5782117 ] } }
-{ "type": "Feature", "properties": { "가게명": "얼음꽃아이스크림할인점 북가좌점", "업종": "아이스크림", "주소": "서울 서대문구 북가좌동 거북골로 218" }, "geometry": { "type": "Point", "coordinates": [ 126.9073326, 37.5795613 ] } }
-{ "type": "Feature", "properties": { "가게명": "아이스크림에빠진날", "업종": "아이스크림", "주소": "서울 서대문구 북가좌동 수색로 100 , DMC래미안e편한세상 103동 상가" }, "geometry": { "type": "Point", "coordinates": [ 126.9106853, 37.5737382 ] } }
-{ "type": "Feature", "properties": { "가게명": "오늘은달달", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2 상가501동 104호" }, "geometry": { "type": "Point", "coordinates": [ 126.9144513, 37.5723334 ] } }
-{ "type": "Feature", "properties": { "가게명": "아이스께끼다방 가재울점", "업종": "아이스크림", "주소": "서울 서대문구 남가좌동 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9174876, 37.5731811 ] } }
-{ "type": "Feature", "properties": { "가게명": "아이스크림 사계절", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9164931, 37.5740711 ] } }
-{ "type": "Feature", "properties": { "가게명": "더달달 가재울점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 100 1층4호" }, "geometry": { "type": "Point", "coordinates": [ 126.9168418, 37.5753289 ] } }
-{ "type": "Feature", "properties": { "가게명": "반짝아이스크림", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 84 상가1동 제1층 제105호" }, "geometry": { "type": "Point", "coordinates": [ 126.9189268, 37.5760425 ] } }
-{ "type": "Feature", "properties": { "가게명": "메리엘스아이스크림 명지대점", "업종": "아이스크림", "주소": "서울 서대문구 증가로10길 60-22" }, "geometry": { "type": "Point", "coordinates": [ 126.9253216, 37.579162 ] } }
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "가게명": "배스킨라빈스 가좌역점", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2 DMC파크뷰자이 4단지 상가 403, 404호 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9144933, 37.5718756 ] } },
+    { "type": "Feature", "properties": { "가게명": "던킨 가재울뉴타운점", "업종": "도넛", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9159372, 37.5732071 ] } },
+    { "type": "Feature", "properties": { "가게명": "헷키", "업종": "케이크", "주소": "서울 서대문구 가재울로4길 62 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9247678, 37.5761834 ] } },
+    { "type": "Feature", "properties": { "가게명": "대단한탕후루 명지대점", "업종": "탕후루", "주소": "서울 서대문구 거북골로 27 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9245021, 37.579771 ] } },
+    { "type": "Feature", "properties": { "가게명": "와플대학 명지대캠퍼스", "업종": "와플", "주소": "서울 서대문구 거북골로 51 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.9226582, 37.5785099 ] } },
+    { "type": "Feature", "properties": { "가게명": "설빙 명지대점", "업종": "빙수", "주소": "서울 서대문구 증가로 150 DMC2차 센트럴아이파크상가 2층" }, "geometry": { "type": "Point", "coordinates": [ 126.9216381, 37.578284 ] } },
+    { "type": "Feature", "properties": { "가게명": "배스킨라빈스 남가좌점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 57 1층 우호" }, "geometry": { "type": "Point", "coordinates": [ 126.922096, 37.5781035 ] } },
+    { "type": "Feature", "properties": { "가게명": "스마일명품찹쌀꽈배기 남가좌점", "업종": "꽈배기", "주소": "서울 서대문구 증가로 124" }, "geometry": { "type": "Point", "coordinates": [ 126.9239663, 37.577415 ] } },
+    { "type": "Feature", "properties": { "가게명": "설빙고24 아이스크림할인점", "업종": "아이스크림", "주소": "서울 서대문구 북가좌동 수색로6길 17-14" }, "geometry": { "type": "Point", "coordinates": [ 126.9120258, 37.5713798 ] } },
+    { "type": "Feature", "properties": { "가게명": "다레젤라또", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9149384, 37.5727837 ] } },
+    { "type": "Feature", "properties": { "가게명": "아이스박스 가재울점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 150 1층 3호" }, "geometry": { "type": "Point", "coordinates": [ 126.9131077, 37.5755093 ] } },
+    { "type": "Feature", "properties": { "가게명": "배스킨라빈스 북가좌점", "업종": "아이스크림", "주소": "서울 서대문구 응암로 53 1층" }, "geometry": { "type": "Point", "coordinates": [ 126.909694, 37.5781378 ] } },
+    { "type": "Feature", "properties": { "가게명": "최고의꽈배기", "업종": "꽈배기", "주소": "서울 서대문구 응암로 94 1층 최고의꽈배기" }, "geometry": { "type": "Point", "coordinates": [ 126.9125193, 37.5811311 ] } },
+    { "type": "Feature", "properties": { "가게명": "복호두", "업종": "호두과자", "주소": "서울 서대문구 거북골로14길 32 DMC 아이파크아파트 상가동 104호" }, "geometry": { "type": "Point", "coordinates": [ 126.9139271, 37.5754412 ] } },
+    { "type": "Feature", "properties": { "가게명": "아이스크림스토리 북가좌점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 194" }, "geometry": { "type": "Point", "coordinates": [ 126.9093931, 37.5782117 ] } },
+    { "type": "Feature", "properties": { "가게명": "얼음꽃아이스크림할인점 북가좌점", "업종": "아이스크림", "주소": "서울 서대문구 북가좌동 거북골로 218" }, "geometry": { "type": "Point", "coordinates": [ 126.9073326, 37.5795613 ] } },
+    { "type": "Feature", "properties": { "가게명": "아이스크림에빠진날", "업종": "아이스크림", "주소": "서울 서대문구 북가좌동 수색로 100 , DMC래미안e편한세상 103동 상가" }, "geometry": { "type": "Point", "coordinates": [ 126.9106853, 37.5737382 ] } },
+    { "type": "Feature", "properties": { "가게명": "오늘은달달", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2 상가501동 104호" }, "geometry": { "type": "Point", "coordinates": [ 126.9144513, 37.5723334 ] } },
+    { "type": "Feature", "properties": { "가게명": "아이스께끼다방 가재울점", "업종": "아이스크림", "주소": "서울 서대문구 남가좌동 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9174876, 37.5731811 ] } },
+    { "type": "Feature", "properties": { "가게명": "아이스크림 사계절", "업종": "아이스크림", "주소": "서울 서대문구 가재울미래로 2" }, "geometry": { "type": "Point", "coordinates": [ 126.9164931, 37.5740711 ] } },
+    { "type": "Feature", "properties": { "가게명": "더달달 가재울점", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 100 1층4호" }, "geometry": { "type": "Point", "coordinates": [ 126.9168418, 37.5753289 ] } },
+    { "type": "Feature", "properties": { "가게명": "반짝아이스크림", "업종": "아이스크림", "주소": "서울 서대문구 거북골로 84 상가1동 제1층 제105호" }, "geometry": { "type": "Point", "coordinates": [ 126.9189268, 37.5760425 ] } },
+    { "type": "Feature", "properties": { "가게명": "메리엘스아이스크림 명지대점", "업종": "아이스크림", "주소": "서울 서대문구 증가로10길 60-22" }, "geometry": { "type": "Point", "coordinates": [ 126.9253216, 37.579162 ] } }
+  ]
+}
