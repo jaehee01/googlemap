@@ -1,2 +1,7 @@
-{ "type": "Feature", "properties": { "경찰서": "북가좌파출소", "주소": "서울 서대문구 응암로1길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.910576, 37.5812941 ] } }
-{ "type": "Feature", "properties": { "경찰서": "남가좌파출소", "주소": "서울 서대문구 가재울로4길 51" }, "geometry": { "type": "Point", "coordinates": [ 126.9239035, 37.5758291 ] } }
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "경찰서": "북가좌파출소", "주소": "서울 서대문구 응암로1길 13" }, "geometry": { "type": "Point", "coordinates": [ 126.910576, 37.5812941 ] } },
+    { "type": "Feature", "properties": { "경찰서": "남가좌파출소", "주소": "서울 서대문구 가재울로4길 51" }, "geometry": { "type": "Point", "coordinates": [ 126.9239035, 37.5758291 ] } }
+  ]
+}
