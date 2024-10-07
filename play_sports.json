@@ -1,15 +1,20 @@
-{ "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC래미안e편한세상1단지아파트정문 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9090231, 37.572797 ] } }
-{ "type": "Feature", "properties": { "구분": "농구장", "주소": "DMC래미안e편한세상1단지아파트 농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9118801, 37.5723403 ] } }
-{ "type": "Feature", "properties": { "구분": "테니스장", "주소": "래미안남가좌2차아파트P1주차장입구 앞 테니스장" }, "geometry": { "type": "Point", "coordinates": [ 126.9130845, 37.5722188 ] } }
-{ "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC래미안e편한세상3단지아파트307동 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9073257, 37.5742251 ] } }
-{ "type": "Feature", "properties": { "구분": "농구장", "주소": "나비울어린이공원 안 농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9092785, 37.5747326 ] } }
-{ "type": "Feature", "properties": { "구분": "운동장", "주소": "북가좌초등학교 운동장" }, "geometry": { "type": "Point", "coordinates": [ 126.9078938, 37.5779766 ] } }
-{ "type": "Feature", "properties": { "구분": "농구장", "주소": "DMC파크뷰자이1단지아파트 농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.916984, 37.5721235 ] } }
-{ "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC파크뷰자이1단지아파트 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9188083, 37.5707202 ] } }
-{ "type": "Feature", "properties": { "구분": "운동장", "주소": "가재울초등학교 운동장" }, "geometry": { "type": "Point", "coordinates": [ 126.9182538, 37.5733498 ] } }
-{ "type": "Feature", "properties": { "구분": "배구장", "주소": "DMC래미안클라시스아파트 배구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9165862, 37.5786904 ] } }
-{ "type": "Feature", "properties": { "구분": "농구장", "주소": "연희중학교농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9189403, 37.5787101 ] } }
-{ "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC에코자이배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9189512, 37.5781026 ] } }
-{ "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC센트럴아이파크아파트 110동 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9198709, 37.5781593 ] } }
-{ "type": "Feature", "properties": { "구분": "운동장", "주소": "연가초등학교 운동장" }, "geometry": { "type": "Point", "coordinates": [ 126.9182094, 37.5797906 ] } }
-{ "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC센트럴아이파크아파트 105동 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9204463, 37.5804613 ] } }
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC래미안e편한세상1단지아파트정문 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9090231, 37.572797 ] } },
+    { "type": "Feature", "properties": { "구분": "농구장", "주소": "DMC래미안e편한세상1단지아파트 농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9118801, 37.5723403 ] } },
+    { "type": "Feature", "properties": { "구분": "테니스장", "주소": "래미안남가좌2차아파트P1주차장입구 앞 테니스장" }, "geometry": { "type": "Point", "coordinates": [ 126.9130845, 37.5722188 ] } },
+    { "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC래미안e편한세상3단지아파트307동 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9073257, 37.5742251 ] } },
+    { "type": "Feature", "properties": { "구분": "농구장", "주소": "나비울어린이공원 안 농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9092785, 37.5747326 ] } },
+    { "type": "Feature", "properties": { "구분": "운동장", "주소": "북가좌초등학교 운동장" }, "geometry": { "type": "Point", "coordinates": [ 126.9078938, 37.5779766 ] } },
+    { "type": "Feature", "properties": { "구분": "농구장", "주소": "DMC파크뷰자이1단지아파트 농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.916984, 37.5721235 ] } },
+    { "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC파크뷰자이1단지아파트 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9188083, 37.5707202 ] } },
+    { "type": "Feature", "properties": { "구분": "운동장", "주소": "가재울초등학교 운동장" }, "geometry": { "type": "Point", "coordinates": [ 126.9182538, 37.5733498 ] } },
+    { "type": "Feature", "properties": { "구분": "배구장", "주소": "DMC래미안클라시스아파트 배구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9165862, 37.5786904 ] } },
+    { "type": "Feature", "properties": { "구분": "농구장", "주소": "연희중학교농구장" }, "geometry": { "type": "Point", "coordinates": [ 126.9189403, 37.5787101 ] } },
+    { "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC에코자이배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9189512, 37.5781026 ] } },
+    { "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC센트럴아이파크아파트 110동 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9198709, 37.5781593 ] } },
+    { "type": "Feature", "properties": { "구분": "운동장", "주소": "연가초등학교 운동장" }, "geometry": { "type": "Point", "coordinates": [ 126.9182094, 37.5797906 ] } },
+    { "type": "Feature", "properties": { "구분": "배드민턴장", "주소": "DMC센트럴아이파크아파트 105동 앞 배드민턴장" }, "geometry": { "type": "Point", "coordinates": [ 126.9204463, 37.5804613 ] } }
+  ]
+}
