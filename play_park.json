@@ -1,12 +1,17 @@
-{ "type": "Feature", "properties": { "이름": "거꾸로공원", "주소": "서울특별시 서대문구 증가로32안길 51" }, "geometry": { "type": "Point", "coordinates": [ 126.9132544, 37.5852135 ] } }
-{ "type": "Feature", "properties": { "이름": "은가어린이공원", "주소": "서울특별시 서대문구 증가로20가길 91" }, "geometry": { "type": "Point", "coordinates": [ 126.919452, 37.5827346 ] } }
-{ "type": "Feature", "properties": { "이름": "남이마을어린이공원", "주소": "서울특별시 서대문구 증가로12길 17" }, "geometry": { "type": "Point", "coordinates": [ 126.9196664, 37.5790652 ] } }
-{ "type": "Feature", "properties": { "이름": "갈매연어린이공원", "주소": "서울특별시 서대문구 증가로 191" }, "geometry": { "type": "Point", "coordinates": [ 126.917363, 37.5773726 ] } }
-{ "type": "Feature", "properties": { "이름": "가좌어린이공원", "주소": "서울특별시 서대문구 가재울로 45" }, "geometry": { "type": "Point", "coordinates": [ 126.9204772, 37.575817 ] } }
-{ "type": "Feature", "properties": { "이름": "중앙근린공원", "주소": "서울특별시 서대문구 거북골로 145" }, "geometry": { "type": "Point", "coordinates": [ 126.9131997, 37.574883 ] } }
-{ "type": "Feature", "properties": { "이름": "나비울어린이공원", "주소": "서울특별시 서대문구 수색로 100-35" }, "geometry": { "type": "Point", "coordinates": [ 126.9095918, 37.5747322 ] } }
-{ "type": "Feature", "properties": { "이름": "솟대어린이공원", "주소": "서울특별시 서대문구 수색로6길 43" }, "geometry": { "type": "Point", "coordinates": [ 126.9129198, 37.5728361 ] } }
-{ "type": "Feature", "properties": { "이름": "가재울어린이공원", "주소": "서울특별시 서대문구 모래내로15길 31" }, "geometry": { "type": "Point", "coordinates": [ 126.9194572, 37.5729856 ] } }
-{ "type": "Feature", "properties": { "이름": "연남어린이공원", "주소": "서울특별시 서대문구 증가로8길 24-3" }, "geometry": { "type": "Point", "coordinates": [ 126.9253027, 37.578192 ] } }
-{ "type": "Feature", "properties": { "이름": "해담는어린이공원", "주소": "서울특별시 서대문구 증가로29길 20-49" }, "geometry": { "type": "Point", "coordinates": [ 126.9104582, 37.5824063 ] } }
-{ "type": "Feature", "properties": { "이름": "신가어린이공원", "주소": "서울특별시 서대문구 거북골로22길 29-51" }, "geometry": { "type": "Point", "coordinates": [ 126.9083629, 37.5803043 ] } }
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "이름": "거꾸로공원", "주소": "서울특별시 서대문구 증가로32안길 51" }, "geometry": { "type": "Point", "coordinates": [ 126.9132544, 37.5852135 ] } },
+    { "type": "Feature", "properties": { "이름": "은가어린이공원", "주소": "서울특별시 서대문구 증가로20가길 91" }, "geometry": { "type": "Point", "coordinates": [ 126.919452, 37.5827346 ] } },
+    { "type": "Feature", "properties": { "이름": "남이마을어린이공원", "주소": "서울특별시 서대문구 증가로12길 17" }, "geometry": { "type": "Point", "coordinates": [ 126.9196664, 37.5790652 ] } },
+    { "type": "Feature", "properties": { "이름": "갈매연어린이공원", "주소": "서울특별시 서대문구 증가로 191" }, "geometry": { "type": "Point", "coordinates": [ 126.917363, 37.5773726 ] } },
+    { "type": "Feature", "properties": { "이름": "가좌어린이공원", "주소": "서울특별시 서대문구 가재울로 45" }, "geometry": { "type": "Point", "coordinates": [ 126.9204772, 37.575817 ] } },
+    { "type": "Feature", "properties": { "이름": "중앙근린공원", "주소": "서울특별시 서대문구 거북골로 145" }, "geometry": { "type": "Point", "coordinates": [ 126.9131997, 37.574883 ] } },
+    { "type": "Feature", "properties": { "이름": "나비울어린이공원", "주소": "서울특별시 서대문구 수색로 100-35" }, "geometry": { "type": "Point", "coordinates": [ 126.9095918, 37.5747322 ] } },
+    { "type": "Feature", "properties": { "이름": "솟대어린이공원", "주소": "서울특별시 서대문구 수색로6길 43" }, "geometry": { "type": "Point", "coordinates": [ 126.9129198, 37.5728361 ] } },
+    { "type": "Feature", "properties": { "이름": "가재울어린이공원", "주소": "서울특별시 서대문구 모래내로15길 31" }, "geometry": { "type": "Point", "coordinates": [ 126.9194572, 37.5729856 ] } },
+    { "type": "Feature", "properties": { "이름": "연남어린이공원", "주소": "서울특별시 서대문구 증가로8길 24-3" }, "geometry": { "type": "Point", "coordinates": [ 126.9253027, 37.578192 ] } },
+    { "type": "Feature", "properties": { "이름": "해담는어린이공원", "주소": "서울특별시 서대문구 증가로29길 20-49" }, "geometry": { "type": "Point", "coordinates": [ 126.9104582, 37.5824063 ] } },
+    { "type": "Feature", "properties": { "이름": "신가어린이공원", "주소": "서울특별시 서대문구 거북골로22길 29-51" }, "geometry": { "type": "Point", "coordinates": [ 126.9083629, 37.5803043 ] } }
+  ]
+}
